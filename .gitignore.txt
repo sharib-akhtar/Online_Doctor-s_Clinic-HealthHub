@@ -1,0 +1,72 @@
+# Ignore IDE-specific metadata
+/.metadata/
+
+# Ignore the Maven or Gradle build directories
+/onlineClinic/target/
+/onlineClinic/build/
+
+# Ignore IntelliJ IDEA files
+/onlineClinic/.idea/
+/onlineClinic/*.iml
+
+# Ignore Eclipse files
+/onlineClinic/.classpath
+/onlineClinic/.project
+/onlineClinic/.settings/
+
+# Ignore VS Code files
+/onlineClinic/.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+/onlineClinic/*.log
+
+# Ignore compiled Java class files
+/onlineClinic/*.class
+
+# Ignore packaged JAR and WAR files
+/onlineClinic/*.jar
+/onlineClinic/*.war
+
+# Ignore environment variable files
+/onlineClinic/.env
+
+# Ignore application properties (if sensitive)
+/onlineClinic/application.properties
+/onlineClinic/application.yml
+
+# Ignore test reports
+/onlineClinic/test-output/
+/onlineClinic/surefire-reports/
+/onlineClinic/test-results/
+
+# Ignore temporary files and directories
+/onlineClinic/temp/
+/onlineClinic/out/
+/onlineClinic/bin/
+/onlineClinic/node_modules/
+
+# Ignore IDE working directories
+/onlineClinic/.metadata/
+/onlineClinic/*.swp
+/onlineClinic/*.bak
+
+# Ignore Lombok generated files
+/onlineClinic/lombok.config
+
+# Ignore Java dump files
+/onlineClinic/*.hprof
+
+# Ignore dependency directory for caching
+/onlineClinic/.m2/
+
+# Ignore database files (e.g., H2 database)
+/onlineClinic/*.db
+/onlineClinic/*.mv.db
+/onlineClinic/*.h2.db
+
+# Ignore custom exclusion
+/onlineClinic/custom_exclude/
